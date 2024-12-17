@@ -40,6 +40,7 @@
 //
 //-----------------------------------------------------------------------------
 
+#include <cstdint>
 #include <ImfMisc.h>
 #include <ImfHeader.h>
 #include <ImfAttribute.h>
